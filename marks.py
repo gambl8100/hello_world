@@ -9,7 +9,7 @@ total_marks1 = sum(marks1)
 print(total_marks1)
 
 
-marks2 = [1, 2, 3, 4, 5, 6, 7]
+marks2 = [1, 2, 3, 4, 5, 6, 7,9 ]
 
 total_marks2 = sum(marks2)
 print(total_marks2)
