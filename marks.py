@@ -3,7 +3,7 @@ marks = [1, 2, 3, 4, 5]
 total_marks = sum(marks)
 print(total_marks)
 
-marks1 = [1, 2, 3, 4, 5, 6]
+marks1 = [1, 2, 3, 4, 5, 6, 8]
 
 total_marks1 = sum(marks1)
 print(total_marks1)
